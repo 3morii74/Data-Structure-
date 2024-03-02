@@ -1,0 +1,6 @@
+ID,Name,Stock,Price,Exp Month,Exp Year
+101,Chips,2,10,12,2023
+102,Choclate,15,40,10,2024
+103,Juice,30,10,12,2023
+104,Pepsi,0,15,12,2025
+105,cola,20,10,12,2025
